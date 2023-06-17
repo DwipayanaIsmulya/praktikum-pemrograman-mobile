@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uasdwi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_music">Hello Music</string>
+    <string name="hello_blank_movie">Hello Movie</string>
+    <string name="hello_blank_profile">Hello Profile</string>
+</resources>
